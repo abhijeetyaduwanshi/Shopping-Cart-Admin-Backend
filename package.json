@@ -1,0 +1,19 @@
+{
+  "name": "shopping-cart-admin-backend",
+  "version": "1.0.0",
+  "description": "MEAN stack shopping cart admin backend project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijeetyaduwanshi/Shopping-Cart-Admin-Backend.git"
+  },
+  "author": "Abhijeet Yaduwanshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhijeetyaduwanshi/Shopping-Cart-Admin-Backend/issues"
+  },
+  "homepage": "https://github.com/abhijeetyaduwanshi/Shopping-Cart-Admin-Backend#readme"
+}

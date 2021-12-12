@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/abhijeetyaduwanshi/Shopping-Cart-Admin-Backend/issues"
   },
-  "homepage": "https://github.com/abhijeetyaduwanshi/Shopping-Cart-Admin-Backend#readme"
+  "homepage": "https://github.com/abhijeetyaduwanshi/Shopping-Cart-Admin-Backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongojs": "^3.1.0"
+  }
 }
